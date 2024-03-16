@@ -15,3 +15,8 @@ Neste repositório será colocado os codigo feito da análise das barragens forn
 - Fósseis; 
 - Água Mineral; 
 - Certificado Kimberley (Exploração de Diamantes).
+
+## Como contribuir
+
+Se quiser contribuir com a análise para se discutir nos próximos encontros, só criar uma pasta com seu nome dentro da pasta Notebook para contribuição
+e no titulo do arquivo enviado colocar a data do encontro de referência 
