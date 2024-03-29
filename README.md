@@ -18,5 +18,7 @@ Neste repositório será colocado os codigo feito da análise das barragens forn
 
 ## Como contribuir
 
-Se quiser contribuir com a análise para se discutir nos próximos encontros, só criar uma pasta com seu nome dentro da pasta Notebook para contribuição
-e no titulo do arquivo enviado colocar a data do encontro de referência 
+Se quiser contribuir com a análise para se discutir nos próximos encontros, faça os seguinte procedimentos
+
+- Faça uma pasta com o seu nome dentro da pasta Notebook para contribuição
+- No arquivo coloque seu nome+data do encontro de referência
